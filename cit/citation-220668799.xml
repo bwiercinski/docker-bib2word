@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>citation-220668799.bib</b:Tag>
+<b:SourceType>ArticleInAPeriodical</b:SourceType>
+<b:Year>2008</b:Year>
+<b:Month>08</b:Month>
+<b:PeriodicalName>INFORMS Journal on Computing</b:PeriodicalName>
+<b:Volume>20</b:Volume>
+<b:Pages>368-384</b:Pages>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Crainic</b:Last><b:First>Teodor</b:First><b:Middle>Gabriel</b:Middle></b:Person>
+<b:Person><b:Last>Perboli</b:Last><b:First>Guido</b:First></b:Person>
+<b:Person><b:Last>Tadei</b:Last><b:First>Roberto</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>Extreme Point-Based Heuristics for Three-Dimensional Bin Packing</b:Title>
+</b:Source>
+</b:Sources>

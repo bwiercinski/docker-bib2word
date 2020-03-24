@@ -59,3 +59,6 @@ On Mac OS, office is missing a way to easily import an XML references file into 
 So, to use your exported bib, either replace `~/Library/Containers/com.microsoft.Word/Data/Library/Application Support/Microsoft/Office/Sources.xml` altogether or use a text editor to append your references to the existing document. Don't forget to restart word for the changes to take effect.
 
 _Note_: this trick was taken from [Using Bibtex in MS Word 2015 (Mac OS)](http://blog.pengyifan.com/using-bibtex-in-ms-word-2015-mac-os/).
+
+
+`docker run --rm -v 'C:\Users\bartl\Documents\Projects\pwr\semestr9\praca\bib2xml\docker-bib2word\cit:/app' bib2word citation-220668799.bib`

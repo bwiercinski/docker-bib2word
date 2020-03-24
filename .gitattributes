@@ -1,0 +1,3 @@
+cit/*.bib text eol=lf
+cit/*.xml text eol=lf
+bib2word.sh text eol=lf

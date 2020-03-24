@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>citation-2353632.bib</b:Tag>
+<b:SourceType>ArticleInAPeriodical</b:SourceType>
+<b:Year>1998</b:Year>
+<b:Month>02</b:Month>
+<b:PeriodicalName>Operations Research</b:PeriodicalName>
+<b:Volume>48</b:Volume>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Martello</b:Last><b:First>Silvano</b:First></b:Person>
+<b:Person><b:Last>Pisinger</b:Last><b:First>David</b:First></b:Person>
+<b:Person><b:Last>Vigo</b:Last><b:First>Daniele</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>The Three-Dimensional Bin Packing Problem</b:Title>
+</b:Source>
+</b:Sources>

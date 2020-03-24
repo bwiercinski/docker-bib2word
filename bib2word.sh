@@ -5,6 +5,6 @@ if [ -z "$1" ]; then
 else 
     for file in "$@"
     do
-        bib2xml "$file" | xml2wordbib > "$(basename "$file" .bib).xml"
+        bib2xml "$file" | xml2wordbib | sed 's|<b:Tag>article</b:Tag>|<b:Tag>'$file'</b:Tag>|g' > "$(basename "$file" .bib).xml"
     done
 fi
