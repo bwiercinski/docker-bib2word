@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>cit/citation-220287826.bib</b:Tag>
+<b:SourceType>ArticleInAPeriodical</b:SourceType>
+<b:Year>1991</b:Year>
+<b:Month>01</b:Month>
+<b:PeriodicalName>Elektronische Informationsverarbeitung und Kybernetik</b:PeriodicalName>
+<b:Volume>27</b:Volume>
+<b:Pages>263-271</b:Pages>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Scheithauer</b:Last><b:First>Guntram</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>A Three-dimensional Bin Packing Algorithm.</b:Title>
+</b:Source>
+</b:Sources>

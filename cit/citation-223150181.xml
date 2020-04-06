@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>cit/citation-223150181.bib</b:Tag>
+<b:SourceType>ArticleInAPeriodical</b:SourceType>
+<b:Year>1995</b:Year>
+<b:Month>02</b:Month>
+<b:PeriodicalName>European Journal of Operational Research</b:PeriodicalName>
+<b:Volume>80</b:Volume>
+<b:Pages>68-76</b:Pages>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Chen</b:Last><b:First>C</b:First><b:Middle>S</b:Middle></b:Person>
+<b:Person><b:Last>Lee</b:Last><b:First>S</b:First><b:Middle>M</b:Middle></b:Person>
+<b:Person><b:Last>Shen</b:Last><b:First>Q</b:First><b:Middle>S</b:Middle></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>An analytical model for the container loading problem</b:Title>
+</b:Source>
+</b:Sources>

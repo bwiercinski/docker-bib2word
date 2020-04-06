@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>S2013</b:Tag>
+<b:SourceType>ArticleInAPeriodical</b:SourceType>
+<b:Year>2013</b:Year>
+<b:PeriodicalName>Czasopismo Techniczne. Automatyka</b:PeriodicalName>
+<b:Volume>R. 110, z. 3-AC</b:Volume>
+<b:Pages>39-52</b:Pages>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Schiff</b:Last><b:First>K</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>Ant colony optimization algorithm for the 0-1 knapsack problem</b:Title>
+</b:Source>
+</b:Sources>

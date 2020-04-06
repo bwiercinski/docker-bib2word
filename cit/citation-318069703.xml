@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>inproceedings</b:Tag>
+<b:SourceType>Proceedings</b:SourceType>
+<b:Year>2017</b:Year>
+<b:Month>07</b:Month>
+<b:Pages>785-792</b:Pages>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Dornas</b:Last><b:First>Andr&#195;&#169;</b:First></b:Person>
+<b:Person><b:Last>Martins</b:Last><b:First>Fl&#195;&#161;vio</b:First></b:Person>
+<b:Person><b:Last>Sarubbi</b:Last><b:First>Jo&#195;&#163;o</b:First></b:Person>
+<b:Person><b:Last>Wanner</b:Last><b:First>Elizabeth</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>Real-polarized genetic algorithm for the three-dimensional bin packing problem</b:Title>
+</b:Source>
+</b:Sources>

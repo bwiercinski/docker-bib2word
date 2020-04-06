@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>cit/citation-220470411.bib</b:Tag>
+<b:SourceType>ArticleInAPeriodical</b:SourceType>
+<b:Year>1980</b:Year>
+<b:Month>12</b:Month>
+<b:PeriodicalName>Computers &amp; OR</b:PeriodicalName>
+<b:Volume>7</b:Volume>
+<b:Pages>147-156</b:Pages>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>George</b:Last><b:First>J</b:First></b:Person>
+<b:Person><b:Last>Robinson</b:Last><b:First>D</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>A heuristic for packing boxes into a container</b:Title>
+</b:Source>
+</b:Sources>

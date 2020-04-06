@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>cit/citation-222865569.bib</b:Tag>
+<b:SourceType>ArticleInAPeriodical</b:SourceType>
+<b:Year>1990</b:Year>
+<b:Month>02</b:Month>
+<b:PeriodicalName>European Journal of Operational Research</b:PeriodicalName>
+<b:Volume>44</b:Volume>
+<b:Pages>267-276</b:Pages>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Bischoff</b:Last><b:First>Eberhard</b:First></b:Person>
+<b:Person><b:Last>Marriott</b:Last><b:First>Michael</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>A Comparative Evaluation of Heuristics for Container Loading</b:Title>
+</b:Source>
+</b:Sources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>cit/citation-243771879.bib</b:Tag>
+<b:SourceType>ArticleInAPeriodical</b:SourceType>
+<b:Year>1987</b:Year>
+<b:Month>05</b:Month>
+<b:PeriodicalName>Journal of The Operational Research Society - J OPER RES SOC</b:PeriodicalName>
+<b:Volume>38</b:Volume>
+<b:Pages>423-429</b:Pages>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Berkey</b:Last><b:First>J</b:First></b:Person>
+<b:Person><b:Last>Wang</b:Last><b:First>P</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>Two-Dimensional Finite Bin-Packing Algorithms</b:Title>
+</b:Source>
+</b:Sources>
