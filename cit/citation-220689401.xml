@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"  xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" >
+<b:Source>
+<b:Tag>book</b:Tag>
+<b:SourceType>Book</b:SourceType>
+<b:Year>1998</b:Year>
+<b:Month>01</b:Month>
+<b:Author>
+<b:Author><b:NameList>
+<b:Person><b:Last>Mitchell</b:Last><b:First>Melanie</b:First></b:Person>
+</b:NameList></b:Author>
+</b:Author>
+<b:Title>An Introduction to Genetic Algorithms. MIT Press, Cambridge</b:Title>
+</b:Source>
+</b:Sources>
